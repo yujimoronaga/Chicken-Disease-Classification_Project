@@ -1,4 +1,4 @@
-# Chicken-Disease-Classification_Project
+# Chicken-Disease-Classification_Project 73% Accurate
 
 ## Workflows
 
